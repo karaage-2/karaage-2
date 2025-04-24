@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @karaage-2
 - 👀 I’m interested in ...
-- Making robots, making my terminal and editor look cool, using Archlinux!
+  - Making robots, making my terminal and editor look cool, using Archlinux!
 - 🌱 I’m currently learning ...
-- How to use KiCad and Autodesk Fusion
+  - How to use KiCad and Autodesk Fusion
 - 💞️ I’m looking to collaborate on ...
+  - currently noone sadly :( 
 - 📫 How to reach me ...
-- Maybe twitter?
+  - Maybe twitter?I won't call it X anyway.
 - 😄 Pronouns: ...
+  - People call me kara!
 - ⚡ Fun fact: ...
+  - karaage is a Japanese meal!We fry chicken with sauce.
 
 <!---
 karaage-2/karaage-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
